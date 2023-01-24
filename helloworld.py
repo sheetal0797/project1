@@ -1,4 +1,4 @@
-print("hello world from git")
+print("test")
 print("hello world from git")
 print("hello world from git")
 print("hello world from git")
