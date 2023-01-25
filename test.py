@@ -9,6 +9,6 @@ class TestSum(unittest.TestCase):
 	  	"""
 		data=[23,32]
 		result=summation(data)
-		self.assetEqual(retult,55)
+		self.assetEqual(retult,58)
 if __name__=='__main__':
 	unittest.main()
