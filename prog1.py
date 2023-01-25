@@ -2,4 +2,5 @@
 #source code for summation of two numbers
 
 def summation(data):
+	print("sum")
 	return sum(data)
